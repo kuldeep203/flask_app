@@ -1,0 +1,3 @@
+[console_scripts]
+wpa = wpa_supplicant.cli:run
+
